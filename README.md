@@ -17,6 +17,11 @@ gem 'bootstrap-sass', '~> 2.3.2.0'
 gem 'bootstrap-timepicker-rails-addon', :require => 'bootstrap-timepicker-rails-addon',
                                         :git => 'git://github.com/ywjno/bootstrap-timepicker-rails-addon.git'
 ```
+For bootstrap 3x glyphicons compatibility install this build.
+```ruby
+gem 'bootstrap-timepicker-rails-addon', :require => 'bootstrap-timepicker-rails-addon',
+                                        :git => 'git://github.com/niiicolai/bootstrap-timepicker-rails-addon.git'
+```
 
 And then execute:
 
